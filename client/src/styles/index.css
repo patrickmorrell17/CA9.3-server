@@ -378,7 +378,8 @@ button::-moz-focus-inner {
   width: 100%;
   line-height: 40px;
   display: flex;
-   
+  margin: auto;
+  justify-content: center;
 }
 
 .toast-text {
